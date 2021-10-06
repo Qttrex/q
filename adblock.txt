@@ -25813,3 +25813,5 @@ www.canva.com##._3s95l-a-FwlbU1kPa_nq8J
 tresorit.com##.CookiePolicy-module--cookie-policy--1hTpz
 www.gunz.cc##.disable_page_background_div
 www.gunz.cc##.fade_in.center_fixed.fade_transition.center.responsive.resp-sp-popup.resp-sl-popup.data_privacy_popup_wrapper.popup_wrapper
+www.scatfap.com###user_message
+blog.ubiqsmart.com##body > div:nth-of-type(2)
