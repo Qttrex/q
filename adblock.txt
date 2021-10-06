@@ -25816,3 +25816,5 @@ www.gunz.cc##.fade_in.center_fixed.fade_transition.center.responsive.resp-sp-pop
 www.scatfap.com###master_footer_block
 www.scatfap.com###user_message
 blog.ubiqsmart.com##body > div:nth-of-type(2)
+redactia.ro##.qc-cmp-cleanslate.css-t7pcbj
+googleads.g.doubleclick.net##.qc-cmp-cleanslate.css-t7pcbj
