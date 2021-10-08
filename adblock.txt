@@ -25818,3 +25818,10 @@ www.scatfap.com###user_message
 blog.ubiqsmart.com##body > div:nth-of-type(2)
 redactia.ro##.qc-cmp-cleanslate.css-t7pcbj
 googleads.g.doubleclick.net##.qc-cmp-cleanslate.css-t7pcbj
+javascript.plainenglish.io##body > div:nth-of-type(2)
+aloislageder.eu##.cookie
+www.zdnet.com###onetrust-consent-sdk
+www.zdnet.com##.ot-buttons-fw.ot-wo-title.bottom.otFlat
+www.zdnet.com###onetrust-banner-sdk > div
+www.zdnet.com##.ot-sdk-container
+www.zdnet.com##.ot-sdk-row
