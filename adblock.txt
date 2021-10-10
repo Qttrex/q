@@ -25829,3 +25829,6 @@ ziareonline.ro
 static.ziareonline.ro
 http://c.korruoebt.live/c/redirect?hash=8a65b9b7b7d92dde
 http://c.korruoebt.live/
+www.gstatic.com
+gstatic.com
+jsdelivr.net
