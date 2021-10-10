@@ -25825,3 +25825,5 @@ www.zdnet.com##.ot-buttons-fw.ot-wo-title.bottom.otFlat
 www.zdnet.com###onetrust-banner-sdk > div
 www.zdnet.com##.ot-sdk-container
 www.zdnet.com##.ot-sdk-row
+ziareonline.ro
+static.ziareonline.ro
