@@ -25832,3 +25832,11 @@ http://c.korruoebt.live/
 www.gstatic.com
 gstatic.com
 jsdelivr.net
+www.realitatea.net##.fc-consent-root
+www.realitatea.net##.fc-consent-root
+https://tvdece.ro
+tvdece.ro##.js-prajitura-wrapper.politica-de-prajituri
+https://forum.rpg.net
+forum.rpg.net##.js-bottomFixTarget.u-bottomFixer
+http://www.whatarecookies.com
+www.whatarecookies.com###cookieconsent
