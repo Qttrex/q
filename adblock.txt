@@ -25825,6 +25825,8 @@ www.zdnet.com##.ot-buttons-fw.ot-wo-title.bottom.otFlat
 www.zdnet.com###onetrust-banner-sdk > div
 www.zdnet.com##.ot-sdk-container
 www.zdnet.com##.ot-sdk-row
+tvron.net###gdpr
+docs.oxen.io###animatedComponent > .r-lrvibr.r-1i6wzkk.r-1otgn73.r-1loqt21.css-1dbjc4n
 ziareonline.ro
 static.ziareonline.ro
 http://c.korruoebt.live/c/redirect?hash=8a65b9b7b7d92dde
